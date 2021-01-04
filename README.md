@@ -7,7 +7,7 @@
 - 在 github 上创建一个 public 库
 - 创建成功后， 在用户头像下的 setting 中生成 token
 
-![添加token](https://raw.githubusercontent.com/HappyJeannie/pics/main/img/20210104121712.png)
+![添加token](https://raw.githubusercontent.com/HappyJeannie/pics/main/img/20210104121712.png =200)
 
 - 1 中为 token 使用的描述，可以随意填写
 - 2 中 repo 必选，其他可选
